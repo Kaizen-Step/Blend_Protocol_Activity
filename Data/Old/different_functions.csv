@@ -1,0 +1,14 @@
+ORIGIN_FUNCTION_SIGNATURE,COUNT(TX_HASH),method,,transaction example,nft
+0xe263967e,1011,borrow,"Function: borrow(tuple offer,bytes signature,uint256 loanAmount,uint256 collateralTokenId)",0xb539daa654fee3abcfa0a3d79913b0fb62c78cd19d774b4b1e124f1f8615fdb1,Milady 
+0x736da5ad,823,refinance,"Function: refinance(tuple lien,uint256 lienId,tuple offer,bytes signature)",0xaec797e63cb37f9d93c3719ea70ead3379fbb02b2f4c48662df97ec903ecbcdd,
+0x06aec5ef,439,takeBid,"Function: takeBid(tuple lien,uint256 lienId,tuple execution)",0xbfae95ebeb64a8dd27cb99a237107cbd1707c00623b4a4de25dbdd1e6bb3e14f,Milady 
+0x3ed7d74d,366,buyToBorrowETH,"Function: buyToBorrowETH(tuple offer,bytes signature,uint256 loanAmount,tuple execution)",0xbcd8683641e4cdbfc1f70082b3359825a304f4e4e825889d9246a46a15706b8b,Milady 
+0xc87df1c2,320,repay,"repay(tuple lien,uint256 lienId)",0x7ed406201b482c9de6b05f0d8a437ae1f8d17ac5075ebfa5c393c1f10eb289b3,Azuki 
+0xb2a0bb86,225,buyToBorrowLockedETH,"Function: buyToBorrowLockedETH(tuple lien,tuple sellInput,tuple loanInput,uint256 loanAmount)",0x21825ce9343a27fdfc73aa29f3c0566690fb6d7de8b8c7ebfb1a9c3487e59c64,
+0x41af3763,207,refinanceAuctionByOther,"Function: refinanceAuctionByOther(tuple lien,uint256 lienId,tuple offer,bytes signature)",0xa6b714776e9d5aa93e80410a2c8eccece148726bc8241421fa1fb9166aa8abfe,
+0x8593d5fc,153,buyToBorrow,"Function: buyToBorrow(tuple offer,bytes signature,uint256 loanAmount,tuple execution)",0xc245dadcac2f27dc06d210030866bd7a4c78d856c54e61d3fdb94f2ac6486a2d,Azuki 
+0x2e2fb18b,126,buyToBorrowLocked,"Function: buyToBorrowLocked(tuple lien,tuple sellInput,tuple loanInput,uint256 loanAmount)",0xada269fba2a91dae265a736821760c105700f9c8c8fc5367e558e2e283cc8ba4,
+0x8553b234,112,buyLockedETH,"Function: buyLockedETH(tuple lien,tuple offer,bytes signature)",0xd55a663ade1360492dcd504688f0d798e619038ae7a1c40585a4a64986be1f3c,Milady 
+0xa49c04be,102,refinanceAuction,"Function: refinanceAuction(tuple lien,uint256 lienId,uint256 rate)",0xdfe2ee1abab98892fbfcb06732b708d9f82c87d1b5e27624dfc91ab47debf833,
+0x5b43226f,81,seize,Function: seize(tuple[] lienPointers),0xd3dc5e8570b648f2148912308d6482d4a7336ae5c20a694349055de5fecd6362,Azuki 
+0xe7efc178,44,buyLocked,"Function: buyLocked(tuple lien,tuple offer,bytes signature)",0x31d84bee37b6aff43a7bf153141e40b4e5fa63efa3d79878f851ed1dc69426ed,Azuki 
