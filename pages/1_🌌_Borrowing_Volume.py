@@ -175,7 +175,7 @@ with c2:
         st.image(Image.open('Images/Milady2.jpg'))
 
     elif Collection == 'Wrapped Cryptopunks':
-        st.image(Image.open('Images/punks2.Jpg'))
+        st.image(Image.open('Images/cryptop22.jpg'))
 
 ##########################################################################
 
