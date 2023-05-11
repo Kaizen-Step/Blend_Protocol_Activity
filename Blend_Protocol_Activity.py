@@ -14,7 +14,7 @@ c1, c2, c3 = st.columns(3)
 with c1:
     st.text(" \n")
     st.text(" \n")
-    st.image(Image.open('Images/blend7.jpg'))
+    st.image(Image.open('Images/Blend12.png'))
 
 with c2:
     st.text(" \n")
