@@ -49,8 +49,8 @@ st.write("""
  1.https://nftnow.com/features/what-blurs-blend-protocol-means-for-nfts/     
                 2.https://milkroad.com/news/blur-lending-blend   
         3.https://www.paradigm.xyz/2023/05/blend     
-        5.https://www.youtube.com/channel/UCOaX0Vu-dWB7bNjFMnbBo2A
-        4.[Image Source]https://twitter.com/blur_io
+        4.[Image Source]https://twitter.com/blur_io   
+        5.https://www.youtube.com/channel/UCOaX0Vu-dWB7bNjFMnbBo2A  
     
 
 """)

@@ -10,9 +10,9 @@ from PIL import Image
 theme_plotly = None  # None or streamlit
 
 # Layout
-st.set_page_config(page_title='Outstanding Borrower - Blend Protocol On-Chain Activity',
-                   page_icon=':bar_chart:🌌', layout='wide')
-st.title('🌌 Outstanding Borrower')
+st.set_page_config(page_title=' User Activity - Blend Protocol On-Chain Activity',
+                   page_icon=':bar_chart:🔥', layout='wide')
+st.title(' 🔥 User Activity')
 
 # Style
 with open('style.css')as f:
