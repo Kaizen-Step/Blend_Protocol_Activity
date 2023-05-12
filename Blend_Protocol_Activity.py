@@ -28,7 +28,7 @@ with c3:
 
 st.write("""
 ### What Blur’s Blend Protocol Means for NFTs ###
-nce again, the NFT marketplace and aggregator Blur has shaken up the NFT space. On May 1, the company announced the launch of Blend, a peer-to-peer lending protocol built alongside Web3 investment firm Paradigm. Blur claims the new protocol will help unlock liquidity for NFTs and help grow the market overall.
+Once again, the NFT marketplace and aggregator Blur has shaken up the NFT space. On May 1, the company announced the launch of Blend, a peer-to-peer lending protocol built alongside Web3 investment firm Paradigm. Blur claims the new protocol will help unlock liquidity for NFTs and help grow the market overall.
 In the first 24 hours of its release, Blend became the number one lending protocol both by volume and users on the Ethereum blockchain.
 Unsurprisingly, the launch has been met with praise, criticism, and everything in between. Blur is no stranger to controversy, but its latest move is its most contentious and influential to date. Here’s what you need to know about how Blend could affect the NFT ecosystem, what people are saying about it, and why it matters.     
 Blend powers two new product offerings from Blur. The first allows people to use their NFTs as collateral to access ETH liquidity. The second is the buy-now-pay-later function, which lets users gain access to expensive blue-chip NFTs for a small down payment. Currently, Blur users can only use Blend on three NFT collections, including Azuki, CryptoPunks, and Milady Maker. However, the platform said it will add more collections in the near future.   
@@ -79,12 +79,12 @@ st.text(" \n")
 c1, c2 = st.columns(2)
 with c1:
     st.info(
-        '**Twitter:  [Ludwig.1989](https://twitter.com/Ludwig_1989)**', icon="🕊️")
+        '**Twitter:  [Ludwig.1989](https://twitter.com/Ludwig_1989/status/1656498361527140352)**', icon="🕊️")
     st.info(
         '**Data Set (1):  [Dune-Blend LoanOfferTaken](https://dune.com/queries/2456014?category=decoded_project&namespace=blur&blockchains=ethereum&contract=Blend&abi=Seize)**', icon="🧠")
 
 with c2:
     st.info(
-        '**Project Github:  [Blend Portocol Activity](https://github.com/Kaizen-Step/NCAA_Basketball)**', icon="💻")
+        '**Project Github:  [Blend Portocol Activity](https://github.com/Kaizen-Step/Blend_Protocol_Activity)**', icon="💻")
     st.info(
-        '**Data Set (2):  [Flipside](https://barttorvik.com/trank.php#)**', icon="🧠")
+        '**Data Set (2):  [Flipside](https://flipsidecrypto.xyz/)**', icon="🧠")

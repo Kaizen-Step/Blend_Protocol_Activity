@@ -11,8 +11,8 @@ theme_plotly = None  # None or streamlit
 
 # Layout
 st.set_page_config(page_title='Borrowing Volume - Blend Protocol On-Chain Activity',
-                   page_icon=':bar_chart:💸', layout='wide')
-st.title('💸 Borrowing Volume')
+                   page_icon=':bar_chart:🌌', layout='wide')
+st.title('🌌 Borrowing Volume')
 
 # Style
 with open('style.css')as f:
